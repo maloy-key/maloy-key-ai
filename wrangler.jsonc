@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "maloy-key-ai",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "maloy-key",
+			"database_id": "c74146a8-5965-443a-9852-8a2ee2f7f4d9"
+		}
+	]
+}
